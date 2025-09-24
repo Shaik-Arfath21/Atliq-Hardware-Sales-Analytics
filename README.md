@@ -22,7 +22,7 @@
 )_ & _[Months](https://github.com/Shaik-Arfath21/Atliq-Hardware-Sales-Analytics/blob/main/Atliq%20Hardware%20Quarterly%20Wise%20P%26L%20Statement%20.pdf
 )_
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Shaik-Arfath21/Atliq-Hardware-Sales-Analytics/blob/main/Market%20Sales%20Performance.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
