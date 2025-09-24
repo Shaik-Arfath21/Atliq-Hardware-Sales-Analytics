@@ -2,10 +2,8 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report] [([https://github.com/Shaik-Arfath21/Atliq-Hardware-Sales-Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf])](url)
-
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]
-  ([https://github.com/Shaik-Arfath21/Atliq-Hardware-Sales-Analytics/blob/main/Country%20Wise%20P%26%20L%20Statement%20.pdf](url))
+    **1.** Create a _[customer performance report](https://github.com/Shaik-Arfath21/Atliq-Hardware-Sales-Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf)_ 
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Shaik-Arfath21/Atliq-Hardware-Sales-Analytics/blob/main/Country%20Wise%20P%26%20L%20Statement%20.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
